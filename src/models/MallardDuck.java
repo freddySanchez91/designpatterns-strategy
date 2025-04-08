@@ -12,7 +12,7 @@ public class MallardDuck extends Duck{
 
 	@Override
 	public void dispaly() {
-
+		System.out.println("I'm a real Mallard duck");
 	}
 
 }
